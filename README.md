@@ -1,0 +1,1 @@
+该仓库存放网页需要引入的图片，注意，在引用图片时，图片地址中的 'blob' 要改为 'raw'，如图片地址为 `https://github.com/riversword/images/blob/master/blog/2018-05-20_103049.png` 需改为 `https://github.com/riversword/images/raw/master/blog/2018-05-20_103049.png`
